@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my Github 👋
+
+- 👨🏻‍💻 I’m a Software Engineer @ Wizeline
+- 🔭 I’m currently working on Go🐹, Python🐍 and Typescript📝
+- 🌱 I’m currently learning AWS and Docker
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oscar-i-castillo/)
 
 <!--
 **Osc4ar/Osc4ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
