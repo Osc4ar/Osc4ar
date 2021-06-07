@@ -1,9 +1,10 @@
 ### Welcome to my Github 👋
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+
 - 👨🏻‍💻 I’m a Software Engineer @ Wizeline
-- 🔭 I’m currently working on Go🐹, Python🐍 and Typescript📝
-- 🌱 I’m currently learning AWS and Docker
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/oscar-i-castillo/)
+- 🔭 I’m currently working on Go🐹 | Python🐍 | Typescript📝
+- 🌱 I’m currently learning AWS | Docker
 
 <!--
 **Osc4ar/Osc4ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
