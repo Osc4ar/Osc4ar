@@ -2,7 +2,7 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-- 👨🏻‍💻 I’m a Software Engineer @ Wizeline
+- 👨🏻‍💻 I’m a Software Development Engineer @ Amazon
 - 🔭 I’m currently working on Go🐹 | Python🐍 | Typescript📝
 - 🌱 I’m currently learning AWS | Docker
 
