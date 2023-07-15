@@ -2,9 +2,11 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-- 👨🏻‍💻 I’m a Software Development Engineer @ Amazon
-- 🔭 I’m currently working on Go🐹 | Python🐍 | Typescript📝
-- 🌱 I’m currently learning AWS | Docker
+- 👨🏻‍💻 Software Development Engineer @ Amazon 📦
+- 🔭 Working on Java☕ | Go🐹 | Python🐍 | Typescript📝
+- 🌱 Learning Systems Design | AWS
+- 🔭 Looking to collaborate on Open Source projects
+- 📫 How to reach me: oscar.castillo.magana@gmail.com
 
 <!--
 **Osc4ar/Osc4ar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
