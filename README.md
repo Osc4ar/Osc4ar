@@ -2,9 +2,9 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
-- 👨🏻‍💻 Software Development Engineer @ Amazon 📦
+- 👨🏻‍💻 Senior Software Engineer @ NuBank 📦
 - 🔭 Working on Java☕ | Go🐹 | Python🐍 | Typescript📝
-- 🌱 Learning Systems Design | AWS
+- 🌱 Learning Systems Design | Clojure
 - 🔭 Looking to collaborate on Open Source projects
 - 📫 How to reach me: oscar.castillo.magana@gmail.com
 
